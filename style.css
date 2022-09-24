@@ -24,7 +24,7 @@
     .mobile-hero-img {
         width: 100vw;
         height: 240px;
-        background: url(/assets/mobile/image-hero@2x.jpg);
+        background: url(./assets/mobile/image-hero@2x.jpg);
         background-repeat: no-repeat;
         background-size: contain;
         background-position: center;
@@ -417,7 +417,7 @@
     }
 
     .hero-background {
-        background-image: url(/assets/desktop/image-hero@2x.jpg);
+        background-image: url(./assets/desktop/image-hero@2x.jpg);
         background-color: black;
         background-size: 540px 800px;
         background-repeat: no-repeat;
