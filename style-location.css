@@ -60,7 +60,7 @@
 
 
     .map-button {
-        background-image: url(/assets/mobile/image-map@2x.png);
+        background-image: url(assets/mobile/image-map@2x.png);
         background-repeat: no-repeat;
         background-size: 100% auto;
         background-position: contain;
@@ -168,7 +168,7 @@
     }
 
     .map-button {
-        background-image: url(/assets/tablet/image-map@2x.png);
+        background-image: url(assets/tablet/image-map@2x.png);
         background-repeat: no-repeat;
         background-size: 100% auto;
         background-position: contain;
@@ -238,7 +238,7 @@
     }
 
     .map-button {
-        background-image: url(/assets/desktop/image-map@2x.png);
+        background-image: url(assets/desktop/image-map@2x.png);
         background-repeat: no-repeat;
         background-size: 100% auto;
         background-position: contain;
