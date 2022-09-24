@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Code](https://github.com/GioKatamadze/Skilled-Elearning-Landing-Page)
-- Live Site URL: [GitHub LIve](https://giokatamadze.github.io/Skilled-Elearning-Landing-Page//)
+- Solution URL: [GitHub Code](https://github.com/GioKatamadze/Art-Gallery-Website)
+- Live Site URL: [GitHub LIve](https://giokatamadze.github.io/Art-Gallery-Website/index.html)
 
 ## My process
 
